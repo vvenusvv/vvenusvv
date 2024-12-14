@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venus</h1>
-<h3 align="center">A passionate IT engineer from Hong Kong</h3>
+<h3 align="center">A passionate software engineer from Hong Kong</h3>
 
 - 👨‍💻 All of my projects are available at [https://vvenusvv.vercel.app/](https://vvenusvv.vercel.app/)
 
